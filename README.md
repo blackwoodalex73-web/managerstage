@@ -1,0 +1,2 @@
+# ManagerStage
+Initial repository commit.
